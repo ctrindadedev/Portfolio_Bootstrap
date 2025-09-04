@@ -15,7 +15,7 @@ A interface foi construída utilizando **Bootstrap**, garantindo um design limpo
 
 ---
 
-### ✨ Seções do Portfólio
+### Seções do Portfólio
 
 - **Sobre Mim** 
 - **Projetos**
